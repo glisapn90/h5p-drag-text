@@ -42,20 +42,20 @@
       ]
     },
     {
-      "label": "Text for \"Check\" button",
-      "default": "Check"
+      "label": "Текст за \"Провери\" дугме",
+      "default": "Провери"
     },
     {
-      "label": "Text for \"Retry\" button",
-      "default": "Retry"
+      "label": "Текст за \"Врати\" дугме",
+      "default": "Врати"
     },
     {
-      "label": "Text for \"Show Solution\" button",
-      "default": "Show solution"
+      "label": "Текст за  \"Прикажи решења\" дугме",
+      "default": "Прикажи решења"
     },
     {
-      "label": "Numbered Drop zone label",
-      "default": "Drop Zone @index.",
+      "label": "Означена ознака зоне испуштања",
+      "default": "Зона @index.",
       "description": "Label used for accessibility, where the Read speaker will read the index of a drop zone. Variable available: @index"
     },
     {
