@@ -1,12 +1,12 @@
 {
   "semantics": [
     {
-      "label": "Task description",
-      "description": "Describe how the user should solve the task.",
-      "default": "Drag the words into the correct boxes"
+      "label": "Опис задатка",
+      "description": "Опишите како корисник треба да реши задатак.",
+      "default": "Превуците речи у тачна поља"
     },
     {
-      "label": "Text",
+      "label": "Текст",
       "placeholder": "*Oslo* is the capital of Norway, *Stockholm* is the capital of Sweden and *Copenhagen* is the capital of Denmark. All cities are located in the *Scandinavian:Northern Part of Europe* peninsula.",
       "description": "",
       "important": {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "label": "Overall Feedback",
+      "label": "Укупне повратне информације",
       "fields": [
         {
           "widgets": [
@@ -29,12 +29,12 @@
           "field": {
             "fields": [
               {
-                "label": "Score Range"
+                "label": "Распон резултата"
               },
               {},
               {
-                "label": "Feedback for defined score range",
-                "placeholder": "Fill in the feedback"
+                "label": "Повратне информације за дефинисани опсег резултата",
+                "placeholder": "Попуните повратне информације"
               }
             ]
           }
@@ -80,19 +80,19 @@
     },
     {
       "label": "Readspeaker text for correct answer",
-      "default": "Correct!"
+      "default": "Тачно!"
     },
     {
       "label": "Readspeaker text for incorrect answer",
-      "default": "Incorrect!"
+      "default": "Погрешно!"
     },
     {
       "label": "Confirmation dialog title that user wants to reset a droppable",
-      "default": "Reset drop"
+      "default": "Ресетуј зону испуштања"
     },
     {
       "label": "Confirmation dialog description that user wants to reset a droppable",
-      "default": "Are you sure you want to reset this drop zone?"
+      "default": "Да ли сте сигурни да желите ресетовати ову зону испуштања?"
     },
     {
       "label": "Label used for accessibility, where the read speaker indicates that dragging is initiated",
