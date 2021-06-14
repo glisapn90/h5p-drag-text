@@ -111,38 +111,38 @@
       "default": "Feedback"
     },
     {
-      "label": "Behavioural settings.",
-      "description": "These options will let you control how the task behaves.",
+      "label": "Поставке понашања.",
+      "description": "Ове опције ће вам омогућити да контролишете понашање задатка.",
       "fields": [
         {
-          "label": "Enable \"Retry\""
+          "label": "Омогући \"Врати\""
         },
         {
-          "label": "Enable \"Show Solution\" button"
+          "label": "Омогући \"Прикажи решења\" дугме"
         },
         {
-          "label": "Enable \"Check\" button"
+          "label": "Омогући \"Провери\" дугме"
         },
         {
-          "label": "Instant feedback"
+          "label": "Тренутне повратне информације"
         }
       ]
     },
     {
-      "label": "Textual representation of the score bar for those using a readspeaker",
-      "default": "You got :num out of :total points"
+      "label": "Текстуални приказ бодовне траке за оне који користе читач звука",
+      "default": "Освојили сте :num од :total поена"
     },
     {
-      "label": "Assistive technology label for \"Check\" button",
-      "default": "Check the answers. The responses will be marked as correct, incorrect, or unanswered."
+      "label": "Ознака помоћне технологије за \"Провери\" дугме",
+      "default": "Проверите одговоре. Одговори ће бити означени као тачни, нетачни или без одговора."
     },
     {
-      "label": "Assistive technology label for \"Show Solution\" button",
-      "default": "Show the solution. The task will be marked with its correct solution."
+      "label": "Ознака помоћне технологије за \"Прикажи решења\" дугме",
+      "default": "Прикажите решења. Задатак ће бити означен својим тачним решењем."
     },
     {
-      "label": "Assistive technology label for \"Retry\" button",
-      "default": "Retry the task. Reset all responses and start the task over again."
+      "label": "Ознака помоћне технологије за \"Врати\" дугме",
+      "default": "Покушајте поново са задатком. Ресетујте све одговоре и покрените задатак поново."
     }
   ]
 }
